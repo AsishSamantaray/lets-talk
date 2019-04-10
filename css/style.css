@@ -1,0 +1,49 @@
+/* * {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  font-family: arial;
+  font-size: 15px;
+  line-height: 1.5em;
+  background-color: #f4f4f4;
+}*/
+#cont {
+  margin: 50px auto;
+  overflow: auto;
+  width: 60%;
+  min-height: 630px;
+}
+.error {
+  background-color: red;
+  color: white;
+  padding: 5px;
+  margin-left: 40px;
+  width: 90%;
+  /* margin-bottom: 20px; */
+}
+#talks {
+  width: 90%;
+  color: black;
+  background-color: #ffffff;
+  height: 400px;
+  margin: 20px auto;
+  overflow: auto;
+}
+#f {
+  margin: 20px auto;
+  width: 90%;
+}
+#f1 {
+  width: 48.8%;
+}
+#f2 {
+  width: 49%;
+}
+#bt {
+  margin-left: 40px;
+  width: 90%;
+}
+#time {
+  color: #aaaaaa;
+}
